@@ -1,0 +1,12 @@
+# Secret environment variables
+.env
+*.env
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
